@@ -34,7 +34,7 @@ TODO
 
 ## Baseline Solution
 ```python
-TODO
+Greedy algorithm that always picks the furthest charging station within the trucks battery 
 ```
 
 ## Complexity Analysis
